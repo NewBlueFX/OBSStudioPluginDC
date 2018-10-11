@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OBSStudioPluginDC", "OBSStudioPluginDC.vcxproj", "{53923DF3-4435-4903-BE8A-07B41BADA3BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		DebugOvrStream|Win32 = DebugOvrStream|Win32
+		DebugOvrStream|x64 = DebugOvrStream|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+		ReleaseOvrStream|Win32 = ReleaseOvrStream|Win32
+		ReleaseOvrStream|x64 = ReleaseOvrStream|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53923DF3-4435-4903-BE8A-07B41BADA3BF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{53923DF3-4435-4903-BE8A-07B41BADA3BF}.Debug|Win32.Build.0 = Debug|Win32
+		{53923DF3-4435-4903-BE8A-07B41BADA3BF}.Debug|x64.ActiveCfg = Debug|x64
+		{53923DF3-4435-4903-BE8A-07B41BADA3BF}.Debug|x64.Build.0 = Debug|x64
+		{53923DF3-4435-4903-BE8A-07B41BADA3BF}.DebugOvrStream|Win32.ActiveCfg = DebugOvrStream|Win32
+		{53923DF3-4435-4903-BE8A-07B41BADA3BF}.DebugOvrStream|Win32.Build.0 = DebugOvrStream|Win32
+		{53923DF3-4435-4903-BE8A-07B41BADA3BF}.DebugOvrStream|x64.ActiveCfg = DebugOvrStream|x64
+		{53923DF3-4435-4903-BE8A-07B41BADA3BF}.DebugOvrStream|x64.Build.0 = DebugOvrStream|x64
+		{53923DF3-4435-4903-BE8A-07B41BADA3BF}.Release|Win32.ActiveCfg = Release|Win32
+		{53923DF3-4435-4903-BE8A-07B41BADA3BF}.Release|Win32.Build.0 = Release|Win32
+		{53923DF3-4435-4903-BE8A-07B41BADA3BF}.Release|x64.ActiveCfg = Release|x64
+		{53923DF3-4435-4903-BE8A-07B41BADA3BF}.Release|x64.Build.0 = Release|x64
+		{53923DF3-4435-4903-BE8A-07B41BADA3BF}.ReleaseOvrStream|Win32.ActiveCfg = ReleaseOvrStream|Win32
+		{53923DF3-4435-4903-BE8A-07B41BADA3BF}.ReleaseOvrStream|Win32.Build.0 = ReleaseOvrStream|Win32
+		{53923DF3-4435-4903-BE8A-07B41BADA3BF}.ReleaseOvrStream|x64.ActiveCfg = ReleaseOvrStream|x64
+		{53923DF3-4435-4903-BE8A-07B41BADA3BF}.ReleaseOvrStream|x64.Build.0 = ReleaseOvrStream|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
